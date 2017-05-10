@@ -1,0 +1,1 @@
+Ce projet a pour objectif de mettre en pratique les cours sur Git et sur GitHub
