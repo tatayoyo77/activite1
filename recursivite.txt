@@ -1,0 +1,8 @@
+*************************
+Préambule Récursivité
+*************************
+
+En poésie (versifiée, par commodité), le mètre pourrait correspondre à la mesure  : le sonnet comporterait 14 mesures (un morceau musical comporte x mesures toutes identiques). Cette mesure comporte un certain nombre de temps (temps forts et temps faibles), soit 12 pour le sonnet (variété des mètres : mesure à 12, à 8…). Une distinction est à faire entre métrique (invariable, reconnaissance du mètre) et rythmique (variable). Dans un genre normé comme le sonnet, la répartition accentuelle est (relativement) codifiée.
+
+
+Le tempo étant lié à la présence codifiée (variable) d’accents (à la différence de la musique où le tempo est le même à chaque mesure, sauf changements indiqués), le nombre d’accents pourrait définir le tempo : ex. accentuation binaire 6/6 (les deux accents obligatoires, selon Cornulier) et ses variantes 3/3/3/3 et autres, ternaire 4/4/4 et ses variantes binaires 8/4 ou 4/8. A priori, le tétramètre aurait un tempo plus lent que le trimètre, le vers étant l’unité, comme la mesure en musique, quel que soit le débit, à condition de respecter les mêmes répartitions accentuelles (variations relatives où l’on retrouverait les mêmes différences). Des pondérations sont probablement nécessaires : il n’y a pas que le nombre d’accents pour définir le tempo (condition nécessaire mais non suffisante), l’accent peut porter sur des syllabes brèves… : à formule rythmique identique, la vitesse/lenteur n’est pas la même ; on peut noter des effets de rallentando/accelerando dus notamment à des efforts phonatoires plus ou moins grands sur certains segments (ex. des v. 7-8 du poème de Verlaine).
